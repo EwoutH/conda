@@ -39,6 +39,7 @@ Authors are sorted alphabetically.
 * Benjamin Zaitlen
 * Bernardo da Eira Duarte
 * Berton Earnshaw
+* Bianca Henderson
 * Billy Keyes
 * Blake Nicholson
 * Bojan Delic
@@ -66,6 +67,7 @@ Authors are sorted alphabetically.
 * Christoph Stich
 * Christopher Barber
 * Christopher Granade
+* Christos Panopoulos
 * ColemanTom
 * Colin Brislawn
 * Cong
@@ -165,10 +167,12 @@ Authors are sorted alphabetically.
 * Kale Franz
 * Kamil Kwiek
 * Kara de la Marck
+* Katherine Kinnaman
 * Ken Odegard
 * Kerry Watson
 * Kevin Deldycke
 * Kfir Zvi
+* Kian-Meng Ang
 * Korijn van Golen
 * Kurt Wheeler
 * Kyle Gerard Felker
@@ -280,6 +284,7 @@ Authors are sorted alphabetically.
 * Shannon Green
 * Shaun Walbridge
 * Simon Li
+* Simon McLaren
 * Skipper Seabold
 * Sophia Castellarin
 * Stan Seibert
@@ -305,6 +310,7 @@ Authors are sorted alphabetically.
 * Tobias Megies
 * Tom Saleeba
 * Travis E. Oliphant
+* Travis Hathaway
 * Travis Swicegood
 * Trent Nelson
 * Troy Powell
